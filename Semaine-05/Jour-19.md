@@ -16,6 +16,6 @@
   - [ ] Qu'est ce que l'association ?
   - [ ] Qu'est ce que l'aggrégation ?
   - [ ] Qu'est ce que la composition ?
-- [ ] Comprendre ce qu'est le polymorphisme :
-  - [ ] À quoi sert le polymorphisme ?
-  - [ ] Comprendre l'utilité du polymorphisme.
+- [x] Comprendre ce qu'est le polymorphisme :
+  - [x] À quoi sert le polymorphisme ?
+  - [x] Comprendre l'utilité du polymorphisme.
