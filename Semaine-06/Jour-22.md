@@ -26,10 +26,10 @@
   - [x] Modifier le HTML, CSS et TS d’un composant
 
 ### Lier HTML et TypeScript
-  - [ ] Interpolation : `{{ message }}`
-  - [ ] Property binding : `[src]="imageUrl"`
-  - [ ] Event binding : `(click)="increment()"`
-  - [ ] Two-way binding (introduction) avec `[(ngModel)]` (à approfondir jour 2)
+  - [x] Interpolation : `{{ message }}`
+  - [x] Property binding : `[src]="imageUrl"`
+  - [x] Event binding : `(click)="increment()"`
+  - [x] Two-way binding (introduction) avec `[(ngModel)]` (à approfondir jour 2)
 
 ### Mini-exercice pratique :
   - [x] Créer un composant `HelloUserComponent` qui affiche un nom et un compteur de clics. Ajouter un champ d’input pour changer le nom (avec `[(ngModel)]`).
