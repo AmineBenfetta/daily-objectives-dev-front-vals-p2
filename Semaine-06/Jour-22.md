@@ -21,9 +21,9 @@
   - [x] Découvrir l'architecture SPA (Single Page Application)
 
 ### Créer et utiliser des composants
-  - [ ] Comprendre le rôle du décorateur `@Component`
-  - [ ] Utiliser un composant enfant dans `app.component.html`
-  - [ ] Modifier le HTML, CSS et TS d’un composant
+  - [x] Comprendre le rôle du décorateur `@Component`
+  - [x] Utiliser un composant enfant dans `app.component.html`
+  - [x] Modifier le HTML, CSS et TS d’un composant
 
 ### Lier HTML et TypeScript
   - [ ] Interpolation : `{{ message }}`
@@ -32,4 +32,4 @@
   - [ ] Two-way binding (introduction) avec `[(ngModel)]` (à approfondir jour 2)
 
 ### Mini-exercice pratique :
-  - [ ] Créer un composant `HelloUserComponent` qui affiche un nom et un compteur de clics. Ajouter un champ d’input pour changer le nom (avec `[(ngModel)]`).
+  - [x] Créer un composant `HelloUserComponent` qui affiche un nom et un compteur de clics. Ajouter un champ d’input pour changer le nom (avec `[(ngModel)]`).
