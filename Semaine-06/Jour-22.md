@@ -16,9 +16,9 @@
   - [x] Lister toutes les commandes disponibles avec `ng help`
 
 ### Explorer l’architecture d’un projet Angular
-  - [ ] Comprendre le rôle des répertoires principaux (`src/`, `app/`, `assets/`, etc.)
-  - [ ] Identifier les fichiers clés : `main.ts`, `app.module.ts`, `angular.json`
-  - [ ] Découvrir l'architecture SPA (Single Page Application)
+  - [x] Comprendre le rôle des répertoires principaux (`src/`, `app/`, `assets/`, etc.)
+  - [x] Identifier les fichiers clés : `main.ts`, `app.module.ts`, `angular.json`
+  - [x] Découvrir l'architecture SPA (Single Page Application)
 
 ### Créer et utiliser des composants
   - [ ] Comprendre le rôle du décorateur `@Component`
